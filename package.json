@@ -1,7 +1,7 @@
 {
   "name": "BinaryLaptop",
   "version": "0.1.0",
-  "description": "TestNodeJS",
+  "description": "BinaryLaptop",
   "main": "hello-world-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
